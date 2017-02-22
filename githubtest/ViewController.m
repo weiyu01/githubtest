@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"this is a test data");
+    // 中文版测试代码提交管理
 }
 
 
